@@ -4,6 +4,42 @@
     "name":"v vaishnavi reddy",
     "label":"fresher",
     "email":"vangavaishnavir1601"
+  },
+  "career":
+  {
+    "info":"no procastination"
+  },
+  "education":[
+  {
+    "degree":"btech(it)",
+    "institution":"pvpsit",
+  "data":["2016-2020","sec2"]
+},
+{
+  "degree":"12th",
+  "institution":"chaitanya",
+"data":["2014-2016","sec2"]
+},
+{
+  "degree":"10th",
+  "institution":"kv",
+"data":["2014-2016","sec2"]
   }
-
+],
+"skills" :[
+  {
+  "title":"languages" ,
+  "content":["c","python","java"]
+},
+{
+  "title":"database",
+  "content":["SQL","mongodb"]
+},
+{
+  "title":"frameworks",
+  "content":["Django"]
 }
+
+]
+
+  }
